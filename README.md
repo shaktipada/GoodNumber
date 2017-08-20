@@ -16,4 +16,4 @@ Similarly 1212 is bad because the substring “12” is present adjacent to the 
 Your program should find out the smallest n-digit good number where n is passed to it as a command line argument.
 Your program would be invoked as:
 
-find_good <n>
+find_good n
